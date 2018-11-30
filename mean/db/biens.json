@@ -1,0 +1,31 @@
+
+[ 
+	{
+   	"idBien" : 1,  
+  	"titre": " Cherche Pistolet a peinture ", 
+  	"descriptif": " Bonjour, je cherche à louer une machine à peinture pro", 
+  	"lienPhoto":"pistolet.png",
+	"prix":10, 
+	"email" : "emile1@gmail.com"
+	},
+
+
+	{
+   	"idBien" : 2,  
+  	"titre": " Louer machine a laver  ", 
+  	"descriptif": " Bonjour, je loue une machine à laver", 
+  	"lienPhoto":"machine.png",
+	"prix":10, 
+	"email" : "emile2@gmail.com"
+	},
+
+	{
+   	"idBien" : 3,  
+  	"titre": " Cherche PS4  pro  ", 
+  	"descriptif": " Bonjour, je cherche à acheter un PS4 pro", 
+  	"lienPhoto":"PS4pro.png",
+	"prix":310, 
+	"email" : "emile3@gmail.com"
+	}
+
+]

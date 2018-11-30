@@ -1,7 +1,0 @@
-db.createCollection("Membres")
-db.createCollection("Biens")
-db.createCollection("Services")
-db.createCollection("Utilisations")
-db.createCollection("Disponibilités")
-db.createCollection("DescriptifBiens")
-db.createCollection("DescriptifServices")

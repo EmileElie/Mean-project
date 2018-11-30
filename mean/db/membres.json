@@ -1,0 +1,45 @@
+[ 
+	{
+   	"email" : "emile1@gmail.com", 
+  	"password":"123456", 
+  	"nom": "y1", 
+  	"prenom" : "emile1", 
+  	"role" : "particulier",
+	"ville" : "Montpellier", 
+	"adresse" : "72 rue Joseph Kessel", 
+	"tel":"0101010101"
+	},
+
+	{
+   	"email" : "emile2@gmail.com", 
+  	"password":"123456", 
+  	"nom": "y2", 
+  	"prenom" : "emile2", 
+  	"role" : "particulier",
+	"ville" : "Montpellier", 
+	"adresse" : "1 rue Alibaba", 
+	"tel":"0201020102"
+	},
+
+	{
+   	"email" : "emile3@gmail.com", 
+  	"password":"123456", 
+  	"nom": "y3", 
+  	"prenom" : "emile3", 
+  	"role" : "commercant",
+	"ville" : "Paris", 
+	"adresse" : "10 rue Boutonnet", 
+	"tel":"0606060606"
+	},
+
+ 	{
+ 	"email": "emile4@gmail.com", 
+ 	"password" :"123456", 
+ 	"nom": "y4", 
+ 	"prenom" : "emile4", 
+ 	"role" : "particulier",
+ 	"ville" : "Nice", 
+ 	"adresse" : "72 rue Albert 1er", 
+ 	"tel" : "0707070707"
+ 	}
+]
